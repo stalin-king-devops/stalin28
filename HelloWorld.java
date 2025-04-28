@@ -2,6 +2,6 @@
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World from Kubernetes and Git!,from local to remote and added webhook");
+        System.out.println("Hello,webhook");
     }
 }
